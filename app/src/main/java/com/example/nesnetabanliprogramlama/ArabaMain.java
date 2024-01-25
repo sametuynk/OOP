@@ -1,6 +1,6 @@
 package com.example.nesnetabanliprogramlama;
 
-public class NesneTabanliGiris {
+public class ArabaMain {
 
     public static void main(String[] args) {
         //Normal değişken

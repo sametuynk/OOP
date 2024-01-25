@@ -6,5 +6,10 @@ public class MatematikMain {
 
         m.carpma(10,2);
 
+
+
+        int gelenDeger= m.topla(10,15,25);
+        System.out.println("Toplam: "+gelenDeger);
+
     }
 }

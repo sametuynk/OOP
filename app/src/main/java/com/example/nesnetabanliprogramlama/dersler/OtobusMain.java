@@ -1,4 +1,6 @@
-package com.example.nesnetabanliprogramlama;
+package com.example.nesnetabanliprogramlama.dersler;
+
+import com.example.nesnetabanliprogramlama.dersler.Otobus;
 
 public class OtobusMain {
     public static void main(String[] args) {

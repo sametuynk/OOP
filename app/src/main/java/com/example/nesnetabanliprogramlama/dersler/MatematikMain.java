@@ -1,4 +1,6 @@
-package com.example.nesnetabanliprogramlama;
+package com.example.nesnetabanliprogramlama.dersler;
+
+import com.example.nesnetabanliprogramlama.dersler.Matematik;
 
 public class MatematikMain {
     public static void main(String[] args) {

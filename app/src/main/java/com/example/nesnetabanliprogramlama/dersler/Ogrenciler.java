@@ -1,4 +1,4 @@
-package com.example.nesnetabanliprogramlama;
+package com.example.nesnetabanliprogramlama.dersler;
 
 public class Ogrenciler {
     String isim;

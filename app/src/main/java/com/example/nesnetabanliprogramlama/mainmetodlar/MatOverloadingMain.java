@@ -1,6 +1,6 @@
-package com.example.nesnetabanliprogramlama.dersler;
+package com.example.nesnetabanliprogramlama.mainmetodlar;
 
-import com.example.nesnetabanliprogramlama.dersler.MatematikOverloading;
+import com.example.nesnetabanliprogramlama.siniflar.MatematikOverloading;
 
 public class MatOverloadingMain {
     public static void main(String[] args) {

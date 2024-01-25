@@ -1,4 +1,4 @@
-package com.example.nesnetabanliprogramlama.dersler;
+package com.example.nesnetabanliprogramlama.siniflar;
 
 public class Islemler {
 

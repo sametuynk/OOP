@@ -1,6 +1,6 @@
-package com.example.nesnetabanliprogramlama.dersler;
+package com.example.nesnetabanliprogramlama.mainmetodlar;
 
-import com.example.nesnetabanliprogramlama.dersler.Otobus;
+import com.example.nesnetabanliprogramlama.siniflar.Otobus;
 
 public class OtobusMain {
     public static void main(String[] args) {

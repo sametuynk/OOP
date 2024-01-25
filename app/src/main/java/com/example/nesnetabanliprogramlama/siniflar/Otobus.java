@@ -1,10 +1,10 @@
-package com.example.nesnetabanliprogramlama.dersler;
+package com.example.nesnetabanliprogramlama.siniflar;
 
 public class Otobus {
-    int kapasite;
-    int mevcutYolcu;
-    String nereden;
-    String nereye;
+    public int kapasite;
+    public int mevcutYolcu;
+    public String nereden;
+    public String nereye;
 
     public void bilgiAl(){
         System.out.println("Kapasite     :"+kapasite);

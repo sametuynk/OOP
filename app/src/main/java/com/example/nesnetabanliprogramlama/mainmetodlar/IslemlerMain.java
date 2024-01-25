@@ -1,6 +1,6 @@
-package com.example.nesnetabanliprogramlama.dersler;
+package com.example.nesnetabanliprogramlama.mainmetodlar;
 
-import com.example.nesnetabanliprogramlama.dersler.Islemler;
+import com.example.nesnetabanliprogramlama.siniflar.Islemler;
 
 public class IslemlerMain {
 

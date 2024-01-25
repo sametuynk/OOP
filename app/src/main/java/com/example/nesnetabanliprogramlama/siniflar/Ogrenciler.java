@@ -1,9 +1,9 @@
-package com.example.nesnetabanliprogramlama.dersler;
+package com.example.nesnetabanliprogramlama.siniflar;
 
 public class Ogrenciler {
-    String isim;
-    int okulNo;
-    String adres;
+    public String isim;
+    public int okulNo;
+    public String adres;
 
     public Ogrenciler() {
     }

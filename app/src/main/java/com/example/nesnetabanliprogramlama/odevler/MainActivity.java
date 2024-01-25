@@ -1,4 +1,4 @@
-package com.example.nesnetabanliprogramlama;
+package com.example.nesnetabanliprogramlama.odevler;
 
 import androidx.appcompat.app.AppCompatActivity;
 

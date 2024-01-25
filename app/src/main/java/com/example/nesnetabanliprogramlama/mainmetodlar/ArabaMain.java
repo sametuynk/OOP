@@ -1,6 +1,6 @@
-package com.example.nesnetabanliprogramlama.dersler;
+package com.example.nesnetabanliprogramlama.mainmetodlar;
 
-import com.example.nesnetabanliprogramlama.dersler.Araba;
+import com.example.nesnetabanliprogramlama.siniflar.Araba;
 
 public class ArabaMain {
 

@@ -1,6 +1,6 @@
-package com.example.nesnetabanliprogramlama.dersler;
+package com.example.nesnetabanliprogramlama.mainmetodlar;
 
-import com.example.nesnetabanliprogramlama.dersler.Ogrenciler;
+import com.example.nesnetabanliprogramlama.siniflar.Ogrenciler;
 
 public class ReferansTipiAtamaMain {
     public static void main(String[] args) {

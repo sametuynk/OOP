@@ -1,6 +1,6 @@
-package com.example.nesnetabanliprogramlama.dersler;
+package com.example.nesnetabanliprogramlama.mainmetodlar;
 
-import com.example.nesnetabanliprogramlama.dersler.Matematik;
+import com.example.nesnetabanliprogramlama.siniflar.Matematik;
 
 public class MatematikMain {
     public static void main(String[] args) {
